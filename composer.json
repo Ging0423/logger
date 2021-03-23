@@ -1,6 +1,12 @@
 {
     "name": "snic104/logger",
     "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Php\\Exam\\": "Php/Exam",
+            "Psr\\Log\\": "Psr/Log"
+        }
+    },
     "minimum-stability": "dev",
     "require": { }
 }
