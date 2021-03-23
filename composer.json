@@ -2,7 +2,5 @@
     "name": "snic104/logger",
     "type": "library",
     "minimum-stability": "dev",
-    "require": {
-        "psr/log": "1.1.x-dev"
-    }
+    "require": { }
 }
